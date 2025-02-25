@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source Flutter projects and innovative mobile applications.  
 - 📫 How to reach me: [(https://www.linkedin.com/in/omnya-mohamed-a93219333)]  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love building sleek and modern Metro-style UI for mobile apps! 🚇  
+- ⚡ Fun fact: I enjoy crafting beautiful and efficient Flutter apps! 🚀  
 
 
 <!---
